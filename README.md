@@ -1,5 +1,6 @@
 # MINI PROJECT 
 Task MINI PROJECT VIX at AEON as BACKEND DEV
+Muhammad Hafidz Febriansyah
 
 # Tech Stacks Used
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]() ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
