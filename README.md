@@ -33,7 +33,7 @@ Task MINI PROJECT VIX at AEON as BACKEND DEV
 
 ### REGISTER & LOGIN
     1. Login
-    ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/auth/login.jpg)
+    ![pp](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/auth/login.jpg)
     2. Register
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/auth/register.jpg)
 ### KARYAWAN
