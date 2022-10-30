@@ -32,31 +32,31 @@ Task MINI PROJECT VIX at AEON as BACKEND DEV
 ## REQUEST AND RESPONSE
 
 ### REGISTER & LOGIN
-    1.Login
+1.Login
     ![pp](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/auth/login.jpg)
-    2.Register
+2.Register
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/auth/register.jpg)
 ### KARYAWAN
-    1.POST
+1.POST
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/karyawan/post.jpg)
-    2.GETBYID
+2.GETBYID
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/karyawan/getbyid.jpg)
-    3.PUT
+3.PUT
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/karyawan/post.jpg)
-    4.GET-LIST-KARYAWAN-BY-NAME-AND-PAGINATION
+4.GET-LIST-KARYAWAN-BY-NAME-AND-PAGINATION
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/karyawan/listpagination.jpg)
 ### TRAINING
-    1.POST
+1.POST
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/training/post.jpg)
-    2.GETBYID
+2.GETBYID
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/trainigkaryawan/post.jpg)
-    3.PUT
+3.PUT
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/training/put.jpg)
-    4.GET-LIST-TRAINING-BY-NAME-AND-PAGINATION
+4.GET-LIST-TRAINING-BY-NAME-AND-PAGINATION
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/training/getlistpagination.jpg)
 ### TRAINING KARYAWAN
-    1.POST
+1.POST
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/trainigkaryawan/post.jpg)
-    2.GET-LIST-KARYAWAN-BY-NAME-AND-PAGINATION
+2.GET-LIST-KARYAWAN-BY-NAME-AND-PAGINATION
     ![](https://github.com/hafidzencis/vix-aeon-task/blob/master/addimg/trainigkaryawan/getlistbypagination.jpg)
 
